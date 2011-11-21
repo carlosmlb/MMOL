@@ -1,0 +1,39 @@
+
+= MMOL Project =
+ - API Tool for increase client functionalities of realXtend technologies.
+
+== How to use ==
+
+Launch Tundra/Taiga server with websocketserver module enabled, if it's necessary. 
+...
+Works with:
+    Tundra server 1.0.8 and upper.
+    Taiga all versions. 
+
+
+*******************************************************************
+MMOL Projetc is an API under GPL Licence.
+*******************************************************************
+
+
+ Enjoy
+
+== Controls ==
+
+PLEASE NOTE You need to have the mouse cursor over the canvas in order
+to move around.
+
+Turning:  left and right arrow
+Move forward: 	w or up arrow
+move back: 	s or down arrow
+strafe left:	a
+strafe right:	d
+
+You can also turn left/right with the mouse by holding the right mouse
+button down and then moving the mouse in the canvas.
+
+== Requirements ==
+
+In order to work you need to have the AvatarApplication in
+your scene in tundra. If you want to use chat you also need to have
+the ChatApplication and/or mumble module.
