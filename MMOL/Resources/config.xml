@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <serverUrl>http://localhost:9000</serverUrl>
+  <region>SLROUTE</region>
+  
+  <firstName>Mr</firstName>
+  <lastName>Bot</lastName>
+  <password>bot</password>
+
+  <initialPosition x="128" y="128" z="22" />
+</config>
